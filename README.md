@@ -24,9 +24,9 @@ I've set up my own Active Directory lab to simulate and test various attack scen
 - Shadow Copies
 - Pass the Cache
 - DCOM
+  
+![Screenshot 2025-06-16 213054](https://github.com/user-attachments/assets/ee76bf67-8494-47fb-9a9d-f33912c92058)
 
-https://github.com/sahil0921/Active_Directory_Lab-Setup/blob/main/Screenshot%202025-06-16%20213054.jpg
-https://github.com/sahil0921/Active_Directory_Lab-Setup/blob/main/Screenshot%202025-06-16%20213054.jpg
 
 Lab Requirements:
 
