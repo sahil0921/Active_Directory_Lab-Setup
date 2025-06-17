@@ -25,6 +25,9 @@ I've set up my own Active Directory lab to simulate and test various attack scen
 - Pass the Cache
 - DCOM
 
+https://github.com/sahil0921/Active_Directory_Lab-Setup/blob/main/Screenshot%202025-06-16%20213054.jpg
+https://github.com/sahil0921/Active_Directory_Lab-Setup/blob/main/Screenshot%202025-06-16%20213054.jpg
+
 Lab Requirements:
 
 To set up this lab, you'll need:
