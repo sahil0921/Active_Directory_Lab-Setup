@@ -45,6 +45,19 @@ My lab consists of two domains: one parent domain and one child domain. By setti
 - How to execute these attacks (for testing and learning purposes)
 - How to prevent these attacks
 
+![Screenshot 2025-06-16 212014](https://github.com/user-attachments/assets/a917fed4-1f5f-40b5-8dfd-10bbeb7ea8f9)
+
+![Screenshot 2025-06-16 212032](https://github.com/user-attachments/assets/20f32be8-d985-4423-8c7c-84250d9ad69c)
+![Screenshot 2025-06-16 212806](https://github.com/user-attachments/assets/97cd75fc-edf1-4ccb-b573-fc314a43e45e)
+
+
 This lab setup allows me to explore and learn about various Active Directory attack scenarios, helping me improve my security knowledge and skills."
 
 The setup is working fine without any errors. From tomorrow, I'll be practicing all these attacks to further enhance my skills. I've already tested some attacks and have samples to share.
+
+
+![Pasted image 20250615124829](https://github.com/user-attachments/assets/8527bfb1-2fbd-43c5-8629-ed81293160cc)
+
+![Pasted image 20250615124718](https://github.com/user-attachments/assets/d0ad73c8-9b15-415c-acec-c351a1f58703)
+
+
